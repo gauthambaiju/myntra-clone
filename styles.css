@@ -39,7 +39,9 @@ a {
     /* color: #0f1111; */
 }
 
-
+.mobile-container {
+    display: none;
+}
 
 .desktop-container header {
     color: #fff;
