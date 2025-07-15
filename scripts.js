@@ -36,7 +36,6 @@ const lastPart = `<li class="card"></li>
     } catch (err) {
         console.error(err);
     }
-
     displayData = [...data];
     displayDataCopy = [...data];
 
