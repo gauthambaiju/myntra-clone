@@ -1796,7 +1796,7 @@ a {
     line-height: 20px;
 }
 
-@media screen and (max-width: 1220px) {
+@media screen and (max-width: 1240px) {
     body {
         font-size: 13px;
         line-height: 1.42857143;
