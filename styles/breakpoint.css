@@ -1,0 +1,14 @@
+@media screen and (max-width: 1240px) {
+    body {
+        font-size: 13px;
+        line-height: 1.42857143;
+        color: #424553;
+        background-color: white;
+    }
+    .desktop-container {
+        display: none;
+    }
+    .mobile-container {
+        display: block;
+    }
+}
